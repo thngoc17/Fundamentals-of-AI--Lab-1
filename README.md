@@ -1,1 +1,1 @@
-# miniature-engine
+Fundamentals of AI - Lab 1
